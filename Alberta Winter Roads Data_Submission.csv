@@ -1,0 +1,568 @@
+AreaName,LocationDescription,Primary Condition,RoadwayName,Secondary Conditions,Visibility,UpdatedTime
+WATERTON PARKS,Chief Mountain Customs to Belly River Gate,Closed,Hwy 6,[],,2019-10-24 12:59:39
+WATERTON PARKS,Belly River Gate to Two Flags Viewpoint,Closed,Hwy 6,[],,2019-10-24 12:59:43
+BANFF,Moraine Lake to Lake Louise Drive,Closed,Moraine Lake Rd,[],,2019-10-24 13:00:56
+BANFF,Lake Minnewanka to Johnson Lake,Closed,Johnson Lake Road,[],,2019-10-24 13:03:08
+WATERTON PARKS,Jct Hwy 5 to Red Rock Canyon,Closed,RedRock Parkway,[],,2019-10-24 13:10:52
+WATERTON PARKS,Little Prairie Gate to Jct Hwy 5,Closed,Akamina Parkway,[],,2019-10-24 13:10:57
+WATERTON PARKS,Cameron Lake to Little Prairie Gate,Closed,Akamina Parkway,[],,2019-10-24 13:12:03
+BANFF,St. Julien Way to Tunnel Mountain Rd,Closed,Tunnel Mountain Dr,[],,2019-10-26 02:06:03
+BANFF,Johnston Canyon to Castle Junction,No Report,Hwy 1A,[],Good,2019-11-04 08:00:38
+BANFF,Jct Hwy 93 N to Banff Park Border,Cvd Snw,Hwy 11,['Snowing'],Good,2019-11-05 07:09:16
+BANFF,Junction Hwy 1 to Johnston Canyon,Ptly Cvd Snw,Hwy 1A,"['Shoulder Ice/Snow', 'Snowing']",Fair,2019-11-05 08:53:59
+BANFF,Junction Highway 1 to Two Jack Lake,Ptly Cvd Snw,Minnewanka Loop Road,['Shoulder Ice/Snow'],Good,2019-11-06 01:28:01
+BANFF,Otter Street to Banff Avenue,Ptly Cvd Snw,Tunnel Mountain Road,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 01:28:07
+BANFF,Banff Town Site to Banff Park Gates,Ptly Cvd Snw,Hwy 1,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 01:28:15
+BANFF,Hwy-93S to Mt Norquay Rd,Ptly Cvd Snw,Hwy 1,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 01:28:36
+BANFF,Gopher Street to Mt. Norquay Ski Resort,Ptly Cvd Snw,Norquay Road,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 01:29:05
+BANFF,Bankhead to Minnewanka Parking Lot,Ptly Cvd Snw,Minnewanka Loop Road,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 01:29:25
+BANFF,Lower Sunshine Village Access Rd to Upper Sunshine Village Access Rd,Ptly Cvd Snw,Sunshine Rd,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 01:30:00
+BANFF,Jct Highway 1 to Lower Sunshine Village Access Rd,Ptly Cvd Snw,Sunshine Rd,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 01:30:06
+BANFF,BC Border to Castle Mountain Junction,Ptly Cvd Snw,Hwy 93 S,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 06:42:21
+BANFF,Castle Junction to Lake Louise Drive,Cvd Snw,Hwy 1A,"['Shoulder Ice/Snow', 'Drifting Snow', 'Icy sections']",Good,2019-11-06 06:42:46
+JASPER,Jct Hwy 93A to Trailhead,Closed,Cavell Road,[],,2019-11-06 07:20:23
+JASPER,Snaring Road to Snake Indian River,Closed,Celestine Lake Road,[],,2019-11-06 07:20:26
+JASPER,Geraldine Rd,Closed,Geraldine Rd,[],,2019-11-06 07:20:30
+JASPER,Marmot Road to Whirlpool,No Report,Hwy 93A,[],,2019-11-06 07:20:47
+JASPER,Whirlpool to Athabasca Falls,Closed,Hwy 93A,[],,2019-11-06 07:20:49
+JASPER,Old Fort Point Road to Jct Hwy 93 ,No Report,Hwy 93A,[],,2019-11-06 07:20:53
+JASPER,Jct Hwy 16 to Old Fort Point Rd. ,No Report,Hwy 93A,[],,2019-11-06 07:20:58
+JASPER,Old Fort Point to Lac Beauvert,No Report,Lac Beauvert Road,[],,2019-11-06 07:21:00
+JASPER,Lodge Road to Lake Annette & Edith Lake,No Report,Lake Annette Road,[],,2019-11-06 07:21:05
+JASPER,Hwy 16 to Miette Hot Springs,Closed,Miette Road,[],,2019-11-06 07:21:36
+JASPER,Hwy 93A to Moab Lake,Closed,Moab Lake Road,[],,2019-11-06 07:21:39
+JASPER,Jct Hwy 93A to Old Fort Point,No Report,Old Fort Point Road,[],,2019-11-06 07:21:43
+JASPER,Jct Maligne Lake Road to Jasper Park Lodge,No Report,Old Lodge Road,[],,2019-11-06 07:21:46
+JASPER,Hwy 16 to Celestine Lake Road,No Report,Snaring Road,[],,2019-11-06 07:22:10
+JASPER,Hwy 93 to Sunwapta Falls,No Report,Sunwapta Falls,[],,2019-11-06 07:22:14
+JASPER,Jct Hwy 93 to Athabasca Glacier,Closed,Toe of Athabasca Glacier Rd,[],,2019-11-06 07:22:16
+JASPER,Maligne Canyon to Medicine Lake,Cvd Snw,Maligne Road,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 10:04:43
+JASPER,Hwy 16 to Maligne Canyon,Ptly Cvd Snw,Maligne Road,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 10:05:23
+JASPER,Medicine Lake to Maligne Lake,Cvd Snw,Maligne Road,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 10:05:41
+JASPER,Hwy 93A to Marmot Ski Hill,Cvd Snw,Marmot Road,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 10:05:43
+JASPER,Marmot Turnoff to Marmot Road,Ptly Cvd Snw,Hwy 93A,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 10:06:11
+CMA 508,Jct Hwy 43 to 35 Km North of Jct Hwy 43,Bare Dry,Hwy 32,[],Good,2019-11-06 12:10:52
+BANFF,Lake Louise Dr. to Hwy-93S,Bare Wet,Hwy 1,['Shoulder Ice/Snow'],Good,2019-11-06 12:17:13
+CMA 516,South of Elnora to Jct Hwy 42,Ptly Cvd Ice,Hwy 21,['Blowing snow'],Fair,2019-11-06 12:17:35
+CMA 516,Jct Hwy 42 to Jct Hwy 595,Ptly Cvd Ice,Hwy 2A,['Shoulder Ice/Snow'],Good,2019-11-06 12:17:51
+BANFF,British Columbia Border to Lake Louise Dr,Ptly Cvd Ice,Hwy 1,['Shoulder Ice/Snow'],Good,2019-11-06 12:19:43
+BANFF,Jct Hwy 1 and 93 North to Jct Hwy 11 Saskatchewan River Crossing,Ptly Cvd Ice,Hwy 93 N,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 12:20:45
+CMA 07,East of Hwy 651 to Jct Hwy 831,Bare Dry,Hwy 28,['Shoulder Ice/Snow'],Good,2019-11-06 12:21:38
+CMA 16,Jct Hwy 36 to Jct Hwy 14,Bare Dry,Hwy 26,[],Good,2019-11-06 12:34:57
+JASPER,Jasper to Jasper Park East Gates,Ptly Cvd Ice,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 12:38:29
+JASPER,Jasper Park West Gates to Jasper,Bare Dry,Hwy 16,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 12:38:43
+JASPER,Sunwapta Warden Station to Athabasca Falls Hostel,Cvd Snw,Hwy 93 N,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 12:38:56
+JASPER,Jct Hwy 11 / Saskatchewan River Crossing to Parker Ridge,Cvd Snw,Hwy 93 N,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 12:39:28
+JASPER,Parker Ridge to Sunwapta Warden Station,Cvd Snw,Hwy 93 N,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 12:39:37
+JASPER,Pyramid Lake Road to Pyramid Beach,No Report,Pyramid Beach Road,['Icy sections'],Good,2019-11-06 12:40:40
+JASPER,Jasper to north of Pyramid Island,No Report,Pyramid Lake Rd,[],Good,2019-11-06 12:40:52
+JASPER,Valley of the Five Lakes to Jasper,Ptly Cvd Ice,Hwy 93 N,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 12:41:24
+JASPER,Athabasca Falls Hostel to Valley of the Five Lakes,Ptly Cvd Ice,Hwy 93 N,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 12:41:34
+CMA 24,Jct Hwy 4 to Jct Hwy 36,Bare Dry,Hwy 61,"['Drifting Snow', 'Shoulder Ice/Snow']",Good,2019-11-06 13:37:47
+CMA 520,Jct Hwy 66 to Jct Hwy 1,Bare Wet,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 14:32:59
+CMA 520,Jct Hwy 22 to Elbow Falls Winter Closure Gate,Ptly Cvd Snw,Hwy 66,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 14:33:40
+CMA 520,Jct Hwy 22 to Stone Pine Way,Bare Dry,Hwy 8,['Shoulder Ice/Snow'],Good,2019-11-06 14:34:17
+CMA 521,Jct Hwy 22X to Jct Hwy 66,Bare Wet,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 14:34:50
+CMA 520,Jct Hwy 541 to Jct Hwy 742,Ptly Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 14:46:26
+CMA 520,Jct Hwy 742 to Galatea,Ptly Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 14:46:33
+CMA 520,Galatea to Jct Hwy 1,Ptly Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 14:46:39
+CMA 521,Longview to Black Diamond,Bare Wet,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 14:47:07
+CMA 521,Black Diamond to Jct Hwy 22X,Bare Wet,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 14:47:19
+CMA 520,Calgary City Limits to north of Jct Hwy 2A,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 14:47:31
+CMA 521,North of Chain Lakes Provincial Park to Longview,Bare Wet,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 14:47:33
+CMA 521,Jct Hwy 22 to 69th Street SW,Bare Wet,Hwy 22X,['Shoulder Ice/Snow'],Good,2019-11-06 14:48:02
+CMA 521,Black Diamond to Okotoks,Bare Wet,Hwy 7,['Shoulder Ice/Snow'],Good,2019-11-06 14:48:16
+DEERFOOT TRAIL / STONEY TRAIL,Bow Bottom Trail to Glenmore Trail,Bare Wet,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 14:51:20
+DEERFOOT TRAIL / STONEY TRAIL,Glenmore Trail to Calf Robe Bridge,Bare Wet,Hwy 2,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 14:51:30
+DEERFOOT TRAIL / STONEY TRAIL,Calf Robe Bridge to 16th Ave NE,Bare Wet,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 14:51:42
+CMA 520,Jct Hwy 22 to West Calgary City Limits,Bare Dry,Hwy 1A,['Shoulder Ice/Snow'],Good,2019-11-06 14:51:47
+DEERFOOT TRAIL / STONEY TRAIL,16th Ave NE to Beddington Trail,Bare Wet,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 14:51:59
+CMA 520,Jct Hwy 40 to Jct Hwy 22,Bare Wet,Hwy 1A,['Shoulder Ice/Snow'],Good,2019-11-06 14:52:04
+CMA 520,Jct Hwy 1A to Cremona,Bare Wet,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 14:52:25
+DEERFOOT TRAIL / STONEY TRAIL,Beddington Trail to Jct Hwy 201 Stoney Trail NE,Bare Wet,Hwy 2,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 14:52:39
+CMA 520,Jct Hwy 1 to Cochrane,Bare Wet,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 14:52:39
+CMA 520,Jct Hwy 1A to Jct Hwy 579,Ptly Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 14:53:02
+DEERFOOT TRAIL / STONEY TRAIL,Jct Hwy 201 SE to Bow Bottom Trail,Bare Wet,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 14:53:04
+CMA 520,Calgary to Jct Hwy 21,Bare Dry,Hwy 1,['Shoulder Ice/Snow'],Good,2019-11-06 14:55:04
+CMA 520,Jct Hwy 201 to Jct Hwy 24,Bare Dry,Hwy 22X,['Shoulder Ice/Snow'],Good,2019-11-06 14:55:28
+CMA 520,Jct Hwy 1 to Jct Hwy 564,Ptly Cvd Snw,Hwy 9,['Shoulder Ice/Snow'],Good,2019-11-06 14:55:48
+CMA 521,Bow River to Jct Hwy 1,Bare Wet,Hwy 24,['Shoulder Ice/Snow'],Good,2019-11-06 14:56:19
+CMA 07,Jct Hwy 831 to Jct Hwy 855,Bare Dry,Hwy 28,[],Good,2019-11-06 15:04:47
+CMA 07,Jct Hwy 855 to Jct Hwy 36,Bare Dry,Hwy 28,['Shoulder Ice/Snow'],Good,2019-11-06 15:04:52
+CMA 07,Jct Hwy 36 to Spedden,Bare Dry,Hwy 28,['Shoulder Ice/Snow'],Good,2019-11-06 15:04:58
+CMA 07,Ashmont to Kikino South Boundary,Bare Dry,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:05:03
+CMA 521,Jct Hwy 564 to Township Road 281,Ptly Cvd Ice,Hwy 56,"['Shoulder Ice/Snow', 'Slush']",Good,2019-11-06 15:06:40
+CMA 02,Red Earth Creek to North Wabasca Crossing,Bare Dry,Hwy 88,['Shoulder Ice/Snow'],Good,2019-11-06 15:11:02
+CMA 02,Nipisi to Red Earth Creek,Bare Dry,Hwy 88,[],Good,2019-11-06 15:11:18
+CMA 508,Jct Hwy 32 to west of Hwy 753,Bare Wet,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 15:18:33
+CMA 10,Barrhead to Jct Hwy 776,Bare Dry,Hwy 18,[],Good,2019-11-06 15:18:49
+CMA 10,Greencourt to Lac Ste Anne County Boundary,Bare Dry,Hwy 18,[],Good,2019-11-06 15:18:56
+CMA 10,Lac Ste Anne County Boundary to Barrhead,Bare Dry,Hwy 18 ,[],Good,2019-11-06 15:19:04
+CMA 10,Mayerthorpe to Jct Hwy 18,Bare Dry,Hwy 22,[],Good,2019-11-06 15:19:12
+CMA 515,Jct Hwy 13 to Wetaskiwin County Line,Cvd Snw,Hwy 20,"['Icy sections', 'Shoulder Ice/Snow']",Fair,2019-11-06 15:23:31
+CMA 515,Jct Hwy 12 to Jct Hwy 53 East,Cvd Ice,Hwy 20,['Shoulder Ice/Snow'],Good,2019-11-06 15:23:34
+CMA 515,Jct Hwy 611 Hoadley to Jct Hwy 13,Cvd Snw,Hwy 20,"['Icy sections', 'Shoulder Ice/Snow']",Fair,2019-11-06 15:23:36
+CMA 515,Jct Hwy 53 to Jct Hwy 611,Cvd Snw,Hwy 20,"['Shoulder Ice/Snow', 'Icy sections']",Fair,2019-11-06 15:23:39
+CMA 07,	South City Boundary to Parsons Access road,Bare Dry,Hwy 63,[],Good,2019-11-06 15:23:43
+CMA 07,Parsons Access Road to Mildred Lake,Bare Dry,Hwy 63,[],Good,2019-11-06 15:23:50
+ANTHONY HENDAY DRIVE SOUTH,Edmonton City Limit to 19 Avenue North West,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:24:55
+ANTHONY HENDAY DRIVE SOUTH,Edmonton West City Limits to Jct Hwy 216 Anthony Henday Drive,Bare Dry,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 15:24:55
+ANTHONY HENDAY DRIVE SOUTH,50 Street North West to Jct Hwy 14,Bare Dry,Hwy 216,['Shoulder Ice/Snow'],Good,2019-11-06 15:24:55
+ANTHONY HENDAY DRIVE SOUTH,Jct Hwy 2 Queen Elizabeth II Hwy to 50 Street North West,Bare Dry,Hwy 216,['Shoulder Ice/Snow'],Good,2019-11-06 15:24:55
+ANTHONY HENDAY DRIVE SOUTH,Terwillegar Drive to Jct Hwy 2 Queen Elizabeth II Hwy,Bare Dry,Hwy 216,['Shoulder Ice/Snow'],Good,2019-11-06 15:24:55
+ANTHONY HENDAY DRIVE SOUTH,Lessard Road to Terwillegar Drive,Bare Dry,Hwy 216,['Shoulder Ice/Snow'],Good,2019-11-06 15:24:55
+ANTHONY HENDAY DRIVE SOUTH,Jct Hwy 16 West to Lessard Road,Bare Dry,Hwy 216,['Shoulder Ice/Snow'],Good,2019-11-06 15:24:55
+CMA 01,North Wabasca Crossing to Jct Hwy 58,Bare Dry,Hwy 88,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 01,Jct Hwy 88 to Wood Buffalo National Park Border,Bare Dry,Hwy 58,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 01,High Level to Jct Hwy 88,Bare Dry,Hwy 58,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 01,Rainbow Lake to Range Road 50A,Bare Dry,Hwy 58 ,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 01,Range Road 50A to High Level,Bare Dry,Hwy 58,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 01,Paddle Prairie to High Level,Bare Dry,Hwy 35,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 01,Keg River to Paddle Prairie,Bare Dry,Hwy 35,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 01,High Level to Zama Corner,Bare Dry,Hwy 35,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 01,Zama Corner to Northwest Territories Border,Bare Dry,Hwy 35,['Shoulder Ice/Snow'],Good,2019-11-06 15:25:08
+CMA 03,Little Smoky to Fox Creek,Bare Dry,Hwy 43,[],Good,2019-11-06 15:27:57
+CMA 03,Fox Creek to Eagle Tower Road,Bare Dry,Hwy 43,[],Good,2019-11-06 15:27:57
+CMA 03,Eaglesham Corner to Donnelly Corner,Bare Dry,Hwy 49,[],Good,2019-11-06 15:27:57
+CMA 03,Donnelly Corner to Jct Hwy 676,Bare Dry,Hwy 49,[],Good,2019-11-06 15:27:57
+CMA 03,Donnelly Corner to South of Nampa,Bare Dry,Hwy 2,[],Good,2019-11-06 15:27:57
+CMA 03,Jct Hwy 679 to Donnelly Corner,Bare Dry,Hwy 2,[],Good,2019-11-06 15:27:57
+CMA 04,Grimshaw to East of Whitelaw,Bare Dry,Hwy 2,[],Good,2019-11-06 15:28:03
+CMA 04,Whitelaw to Fairview,Bare Dry,Hwy 2,"['Shoulder Ice/Snow', 'Fog']",Fair,2019-11-06 15:28:05
+CMA 04,South of Nampa to Peace River,Bare Wet,Hwy 2,[],Good,2019-11-06 15:28:06
+CMA 04,Peace River to Grimshaw,Bare Dry,Hwy 2,[],Good,2019-11-06 15:28:08
+CMA 04,Fairview to North of Dunvegan Bridge,Bare Dry,Hwy 2,"['Fog', 'Shoulder Ice/Snow']",Fair,2019-11-06 15:28:10
+CMA 04,Rycroft to Saddle Hills County South Boundary,Bare Dry,Hwy 2,[],Good,2019-11-06 15:28:13
+CMA 04,Jct Hwy 2 to Grimshaw,Bare Dry,Hwy 2A,[],Good,2019-11-06 15:28:16
+CMA 04,Dixonville to Manning,Bare Dry,Hwy 35,[],Good,2019-11-06 15:28:20
+CMA 04,North of Grimshaw to Dixonville,Bare Dry,Hwy 35,"['Icy sections', 'Snowing']",Fair,2019-11-06 15:28:22
+CMA 04,Manning to Twin Lakes,Bare Dry,Hwy 35,[],Good,2019-11-06 15:28:26
+CMA 04,Twin Lakes to Keg River,Bare Dry,Hwy 35,[],Good,2019-11-06 15:28:28
+CMA 04,Keg River to Twp Rd 1022,Ptly Cvd Snw,Hwy 35,"['Icy sections', 'Snowing']",Fair,2019-11-06 15:28:30
+CMA 04,Twp Rd 1022 to Highway 697,Ptly Cvd Snw,Hwy 35,"['Snowing', 'Icy sections']",Good,2019-11-06 15:28:33
+CMA 04,BC Border to Jct Hwy 726,Bare Dry,Hwy 64,['Shoulder Ice/Snow'],Good,2019-11-06 15:28:35
+CMA 04,Jct Hwy 726 to Hines Creek,Bare Dry,Hwy 64,['Shoulder Ice/Snow'],Good,2019-11-06 15:28:38
+CMA 04,Hines Creek to Jct Hwy 2,Bare Dry,Hwy 64,"['Fog', 'Shoulder Ice/Snow']",Poor,2019-11-06 15:28:40
+CMA 04,Jct Hwy 64 to Fairview,Bare Dry,Hwy 64A,[],Good,2019-11-06 15:28:43
+CMA 06,Jct Hwy 754 to Nipisi,Bare Dry,Hwy 88,['Shoulder Ice/Snow'],Good,2019-11-06 15:28:54
+CMA 06,Slave Lake to Jct Hwy 754,Bare Dry,Hwy 88,[],Good,2019-11-06 15:28:56
+CMA 06,Sandy Lake to Wabasca,Bare Wet,Hwy 813,[],Good,2019-11-06 15:28:58
+CMA 06,North of Rock Island to Sandy Lake,Bare Wet,Hwy 813,[],Good,2019-11-06 15:29:00
+CMA 06,Junction Hwy 88 to Wabasca,Bare Wet,Hwy 754,[],Good,2019-11-06 15:29:03
+CMA 06,North of Hwy 658 to Swan Hills,Bare Dry,Hwy 33,['Shoulder Ice/Snow'],Good,2019-11-06 15:29:10
+CMA 06,Swan Hills to Island Creek,Bare Wet,Hwy 33,['Shoulder Ice/Snow'],Good,2019-11-06 15:29:11
+CMA 06,Island Creek to Jct Hwy 2,Bare Dry,Hwy 33,[],Good,2019-11-06 15:29:13
+CMA 06,35 Km North of Jct Hwy 43 to Swan Hills,Bare Dry,Hwy 32,['Shoulder Ice/Snow'],Good,2019-11-06 15:29:15
+CMA 06,Jct Hwy 2 to Jct Hwy 49,Bare Dry,Hwy 2A,[],Good,2019-11-06 15:29:18
+CMA 06,Slave Lake to MD of Big Lakes Boundary,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:29:20
+CMA 06,MD of Big Lakes Boundary to Jct Hwy 750,Bare Dry,Hwy 2,[],Good,2019-11-06 15:29:22
+CMA 06,Otauwau River to Slave Lake,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:29:25
+CMA 06,Jct Hwy 750 to Jct Hwy 679,Bare Dry,Hwy 2,[],Good,2019-11-06 15:29:27
+CMA 03,DeBolt to Valleyview,Bare Dry,Hwy 43,[],Good,2019-11-06 15:31:33
+CMA 03,Valleyview to Little Smoky,Bare Dry,Hwy 43,[],Good,2019-11-06 15:31:37
+CMA 03,Jct Hwy 676 to Valleyview,Bare Dry,Hwy 49,[],Good,2019-11-06 15:31:40
+CMA 07,Thorhild to Jct Hwy 63,Bare Dry,Hwy 18,['Shoulder Ice/Snow'],Good,2019-11-06 15:33:11
+CMA 07,Jct Hwy 28 to North Saskatchewan River Vinca Bridge,Bare Dry,Hwy 38,['Shoulder Ice/Snow'],Good,2019-11-06 15:36:14
+CMA 07,Jct Hwy 63 to Atmore,Bare Dry,Hwy 55,['Shoulder Ice/Snow'],Good,2019-11-06 15:36:16
+CMA 07,Jct Hwy 28 to Jct Hwy 661,Bare Dry,Hwy 63,['Shoulder Ice/Snow'],Good,2019-11-06 15:36:19
+CMA 07,Wandering River to Mariana Lake,Bare Dry,Hwy 63,[],Good,2019-11-06 15:36:21
+CMA 07,Mariana Lake to South City Boundary of Fort McMurray,Bare Dry,Hwy 63,[],Good,2019-11-06 15:36:23
+CMA 07,Jct Hwy 55 and 855 to Wandering River,Bare Dry,Hwy 63,[],Good,2019-11-06 15:36:25
+CMA 07,Jct Hwy 661 to Jct Hwy 55 and 855,Bare Dry,Hwy 63,[],Good,2019-11-06 15:36:29
+CMA 07,Mildred Lake to End of Hwy 63,Bare Dry,Hwy 63,[],Good,2019-11-06 15:36:31
+CMA 07,South of Conklin to South of Anzac,Bare Dry,Hwy 881,[],Good,2019-11-06 15:36:35
+CMA 07,South of Anzac to Jct Hwy 63,Bare Dry,Hwy 881,[],Good,2019-11-06 15:36:37
+CMA 08,North of Jct Hwy 640 to Jct Hwy 29,Bare Dry,Hwy 41,[],Good,2019-11-06 15:36:51
+CMA 08,Spedden to Jct Hwy 882,Bare Dry,Hwy 28,[],Good,2019-11-06 15:36:51
+CMA 08,Bonnyville to Ardmore,Bare Dry,Hwy 28,[],Good,2019-11-06 15:36:51
+CMA 08,Saint Paul to Jct Hwy 41,Bare Dry,Hwy 29,[],Good,2019-11-06 15:36:51
+CMA 08,Jct Hwy 29 (St. Brides) to Ashmont,Bare Dry,Hwy 36,[],Good,2019-11-06 15:36:51
+CMA 08,Kikino South Boundary to Lac La Biche,Bare Dry,Hwy 36,[],Good,2019-11-06 15:36:51
+CMA 08,Jct Hwy 36 to Jct Hwy 881,Bare Dry,Hwy 55,[],Good,2019-11-06 15:36:51
+CMA 08,Jct Hwy 881 to LaCorey,Bare Dry,Hwy 55,[],Good,2019-11-06 15:36:51
+CMA 08,Jct Hwy 28 to Saskatchewan Border,Bare Dry,Hwy 55,[],Good,2019-11-06 15:36:51
+CMA 08,Jct Hwy 29 to Jct Hwy 28,Bare Dry,Hwy 41,[],Good,2019-11-06 15:36:51
+CMA 08,Lac La Biche to South of Conklin,Bare Dry,Hwy 881,[],Good,2019-11-06 15:36:51
+CMA 08,Foisy to Jct Hwy 36,Bare Dry,Hwy 29,[],Good,2019-11-06 15:36:51
+CMA 08,Jct Hwy 36 to Saint Paul,Bare Dry,Hwy 29,[],Good,2019-11-06 15:36:51
+CMA 08,Atmore to Lac La Biche,Bare Dry,Hwy 55,[],Good,2019-11-06 15:36:51
+CMA 08,LaCorey to Jct Hwy 892,Bare Dry,Hwy 55,[],Good,2019-11-06 15:36:51
+CMA 08,Jct Hwy 892 to Cold Lake,Bare Dry,Hwy 55,[],Good,2019-11-06 15:36:51
+CMA 08,Ardmore to Cold Lake,Bare Dry,Hwy 28,[],Good,2019-11-06 15:36:51
+CMA 08,Bonnyville to LaCorey,Bare Dry,Hwy 41,[],Good,2019-11-06 15:36:51
+CMA 08,Jct Hwy 882 to Bonnyville,Bare Dry,Hwy 28,[],Good,2019-11-06 15:36:51
+CMA 09,Bon Accord to East of Hwy 651,Bare Dry,Hwy 28,[],Good,2019-11-06 15:37:02
+CMA 09,Clover Bar Road to Elk Island Park,Bare Dry,Hwy 16,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 28 to Jct Hwy 15,Bare Dry,Hwy 37,[],Good,2019-11-06 15:37:02
+CMA 09,St Albert to Morinville,Bare Dry,Hwy 2,[],Good,2019-11-06 15:37:02
+CMA 09,Morinville to Jct Hwy 651,Bare Dry,Hwy 2,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 37 to Jct Hwy 651,Bare Dry,Hwy 44,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 15 to Jct Hwy 28,Bare Dry,Hwy 28A,[],Good,2019-11-06 15:37:02
+CMA 09,Edmonton to Jct Hwy 21,Bare Dry,Hwy 14,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 21 to Tofield,Bare Dry,Hwy 14,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 216 Anthony Henday Drive to Fort Saskatchewan,Bare Dry,Hwy 15,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 623 to Sherwood Park,Bare Dry,Hwy 21,[],Good,2019-11-06 15:37:02
+CMA 09,Sherwood Park to Fort Saskatchewan,Bare Dry,Hwy 21,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 216 Anthony Henday Drive to Bon Accord,Bare Dry,Hwy 28,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 44 to Jct Hwy 28,Bare Dry,Hwy 37,[],Good,2019-11-06 15:37:02
+CMA 09,Jct Hwy 43 to Jct Hwy 44,Bare Dry,Hwy 37,[],Good,2019-11-06 15:37:02
+CMA 10,Calling River to North of Rock Island Lake,Bare Dry,Hwy 813,['Strong Wind'],Good,2019-11-06 15:37:17
+CMA 10,Athabasca to Calling River,Bare Dry,Hwy 813,['Strong Wind'],Good,2019-11-06 15:37:19
+CMA 10,Athabasca to Jct Hwy 63,Bare Dry,Hwy 55,[],Good,2019-11-06 15:37:20
+CMA 10,Dapp to Jct Hwy 2,Bare Dry,Hwy 44,[],Good,2019-11-06 15:37:22
+CMA 10,Rich Valley to Barrhead,Bare Dry,Hwy 33,[],Good,2019-11-06 15:37:32
+CMA 10,Jct Hwy 43 Gunn to Rich Valley,Bare Dry,Hwy 33,[],Good,2019-11-06 15:37:34
+CMA 10,Jct Hwy 2 to Smith,Bare Dry,Hwy 2A,[],Good,2019-11-06 15:37:36
+CMA 10,Jct Hwy 18 to Rochester,Bare Dry,Hwy 2,[],Good,2019-11-06 15:37:39
+CMA 10,Jct Hwy 44 to Otauwau River,Bare Dry,Hwy 2,[],Good,2019-11-06 15:37:41
+CMA 10,Legal to Jct Hwy 18,Bare Dry,Hwy 2,[],Good,2019-11-06 15:37:43
+CMA 10,Rochester to Athabasca,Bare Dry,Hwy 2,[],Good,2019-11-06 15:37:46
+CMA 10,Athabasca to South of Lawrence Lake,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:37:48
+CMA 10,South of Lawrence Lake to Jct Hwy 44,Bare Dry,Hwy 2,[],Good,2019-11-06 15:37:50
+CMA 10,Jct Hwy 2 to Thorhild,Bare Dry,Hwy 18,[],Good,2019-11-06 15:37:58
+CMA 11,Entwistle to Range Road 43,Bare Dry,Hwy 16,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:38:04
+CMA 11,Range Road 43 to Jct Hwy 779,Bare Dry,Hwy 16,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:38:06
+CMA 11,Jct Hwy 779 to Edmonton West City Limits,Bare Dry,Hwy 16,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:38:08
+CMA 11,Jct Hwy 16 to Spruce Grove,Bare Dry,Hwy 16A,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:38:11
+CMA 11,Spruce Grove to Edmonton,Bare Dry,Hwy 16A,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:38:13
+CMA 11,Jct Hwy 60 to Jct Hwy 2,Bare Dry,Hwy 19,[],Good,2019-11-06 15:39:04
+CMA 11,Jct Hwy 616 to Leduc,Bare Dry,Hwy 2,[],Good,2019-11-06 15:39:06
+CMA 11,Leduc to Edmonton,Bare Dry,Hwy 2,[],Good,2019-11-06 15:39:08
+CMA 11,Lac St Anne to Mayerthorpe,Bare Dry,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 15:39:17
+CMA 11,Millet to Leduc,Bare Dry,Hwy 2A,[],Good,2019-11-06 15:39:21
+CMA 11,Thorsby to Leduc,Bare Dry,Hwy 39,[],Good,2019-11-06 15:39:28
+CMA 11,Mayerthorpe to Jct Hwy 764 Cherhill,Bare Dry,Hwy 43,['Shoulder Ice/Snow'],Good,2019-11-06 15:39:29
+CMA 11,Jct Hwy 764 Cherhill to Jct Hwy 633,Bare Dry,Hwy 43,['Shoulder Ice/Snow'],Good,2019-11-06 15:39:32
+CMA 11,Jct Hwy 633 to Jct Hwy 16,Bare Dry,Hwy 43,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:39:34
+CMA 11,East of Hwy 658 to Mayerthorpe,Bare Dry,Hwy 43,['Shoulder Ice/Snow'],Good,2019-11-06 15:39:37
+CMA 11,Jct Hwy 16 to Jct Hwy 37,Bare Dry,Hwy 44,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:39:40
+CMA 11,Jct Hwy 39 to Devon,Bare Dry,Hwy 60,[],Good,2019-11-06 15:39:42
+CMA 11,Devon to Jct Hwy 16,Bare Dry,Hwy 60,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:39:44
+CMA 14,Jct Hwy 15 to Jct Hwy 38,Bare Dry,Hwy 45,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Jct Hwy 38 to Andrew,Bare Dry,Hwy 45,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Andrew to Jct Hwy 29,Bare Dry,Hwy 45,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Jct Hwy 29 to Two Hills,Bare Dry,Hwy 45,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Two Hills to Myrnam,Bare Dry,Hwy 45,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Jct Hwy 855 to Jct Hwy 45,Bare Dry,Hwy 29,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Jct Hwy 45 to Jct Hwy 36,Bare Dry,Hwy 29,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Jct Hwy 15 to Innisfree,Bare Dry,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Elk Island Park to Jct Hwy 15,Bare Dry,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Viking to Jct Hwy 16,Bare Dry,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Jct Hwy 16 to Two Hills,Bare Dry,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Two Hills to Jct Hwy 29,Bare Dry,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,North Saskatchewan River Vinca Bridge to Jct Hwy 45,Bare Dry,Hwy 38,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,West Vegreville City Limits to East Vegreville City Limits,Bare Dry,Hwy 16A,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Fort Saskatchewan to Jct Hwy 45,Bare Dry,Hwy 15,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Jct Hwy 45 to Mundare,Bare Dry,Hwy 15,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Jct Hwy 36 to Foisy,Bare Dry,Hwy 29,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 14,Lamont to Jct Hwy 855,Bare Dry,Hwy 29,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:02
+CMA 15,Wainwright to Jct Hwy 619,Bare Dry,Hwy 41,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Jct Hwy 631 to Jct Hwy 45,Bare Dry,Hwy 41,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Jct Hwy 45 to Jct Hwy 640,Bare Dry,Hwy 41,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Myrnam to Jct Hwy 41,Bare Dry,Hwy 45,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Jct Hwy 41 to Dewberry,Bare Dry,Hwy 45,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Dewberry to Saskatchewan Border,Bare Dry,Hwy 45,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Jarrow to Wainwright ,Bare Dry,Hwy 14,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Wainwright to Saskatchewan Border,Bare Dry,Hwy 14,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,25 km South of Jct Hwy 14 to Wainwright,Bare Dry,Hwy 41,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Jct Hwy 619 to Vermilion,Bare Dry,Hwy 41,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Vermilion to Jct Hwy 631,Bare Dry,Hwy 41,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Innisfree to Minburn,Bare Dry,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Minburn to Vermilion,Bare Dry,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 15,Vermilion to Lloydminster,Bare Dry,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 15:40:50
+CMA 16,Meeting Creek to Jct Hwy 13,Bare Wet,Hwy 56,['Shoulder Ice/Snow'],Good,2019-11-06 15:41:00
+CMA 16,Jct Hwy 21 to West of Jct Hwy 21,Bare Wet,Hwy 53,['Icy sections'],Good,2019-11-06 15:41:02
+CMA 16,Battle River to Jct Hwy 36,Bare Dry,Hwy 53,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:41:07
+CMA 16,North of Killam to Viking,Bare Dry,Hwy 36,[],Good,2019-11-06 15:41:08
+CMA 16,Killam to North of Killam,Bare Dry,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:41:11
+CMA 16,Alliance to Killam,Bare Dry,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:41:13
+CMA 16,Jct Hwy 855 to Jct Hwy 36,Bare Dry,Hwy 26,[],Good,2019-11-06 15:41:16
+CMA 16,Camrose to Jct Hwy 855,Bare Dry,Hwy 26,[],Good,2019-11-06 15:41:18
+CMA 16,Jct Hwy 53 West to Jct Hwy 13,Bare Dry,Hwy 21,['Shoulder Ice/Snow'],Good,2019-11-06 15:41:20
+CMA 16,Jct Hwy 13 to Jct Hwy 623,Bare Dry,Hwy 21,['Shoulder Ice/Snow'],Good,2019-11-06 15:41:28
+CMA 16,Viking to Jarrow,Bare Dry,Hwy 14,[],Good,2019-11-06 15:41:31
+CMA 16,Holden to Viking,Bare Dry,Hwy 14,[],Good,2019-11-06 15:41:35
+CMA 16,Tofield to Holden,Bare Dry,Hwy 14,[],Good,2019-11-06 15:41:38
+CMA 16,Killam to Hardisty,Bare Dry,Hwy 13,[],Good,2019-11-06 15:41:40
+CMA 16,Camrose to Daysland,Bare Dry,Hwy 13,['Shoulder Ice/Snow'],Good,2019-11-06 15:41:42
+CMA 16,16 km West of Camrose to Camrose,Bare Dry,Hwy 13,['Shoulder Ice/Snow'],Good,2019-11-06 15:41:45
+CMA 16,Daysland to Killam,Bare Dry,Hwy 13,[],Good,2019-11-06 15:41:47
+CMA 20,Jct Hwy 21 to Jct Hwy 12,Bare Dry,Hwy 11,['Shoulder Ice/Snow'],Good,2019-11-06 15:41:56
+CMA 20,Jct Hwy 21 South to Jct Hwy 56,Bare Dry,Hwy 12,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:41:58
+CMA 20,Jct Hwy 56 to Jct Hwy 852,Bare Dry,Hwy 12,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:42:00
+CMA 520,Jct Hwy 72 to Beynon Corner,Ptly Cvd Ice,Hwy 9,['Shoulder Ice/Snow'],Good,2019-11-06 15:46:13
+CMA 520,Jct Hwy 564 to Jct Hwy 72,Ptly Cvd Ice,Hwy 9,['Shoulder Ice/Snow'],Good,2019-11-06 15:46:32
+CMA 520,Jct Hwy 2 to Beiseker,Ptly Cvd Ice,Hwy 72,['Shoulder Ice/Snow'],Good,2019-11-06 15:47:00
+CMA 20,Jct Hwy 9 to Jct Hwy 27 West,Bare Dry,Hwy 21,"['Drifting Snow', 'Shoulder Ice/Snow']",Good,2019-11-06 15:47:12
+CMA 20,Jct Hwy 27 West to south of Elnora,Bare Dry,Hwy 21,"['Shoulder Ice/Snow', 'Drifting Snow']",Good,2019-11-06 15:47:14
+CMA 20,South of Bashaw to Jct Hwy 53 West,Bare Dry,Hwy 21,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:47:16
+CMA 20,Jct Hwy 805 to Jct Hwy 21,Bare Dry,Hwy 27,['Shoulder Ice/Snow'],Good,2019-11-06 15:47:20
+CMA 20,Jct Hwy 21 to Jct Hwy 839,Bare Dry,Hwy 27,['Shoulder Ice/Snow'],Good,2019-11-06 15:47:24
+CMA 20,Jct Hwy 839 to Jct Hwy 56,Bare Dry,Hwy 27,['Shoulder Ice/Snow'],Good,2019-11-06 15:47:27
+CMA 20,Range Road 271 to Hwy 805,Bare Dry,Hwy 27,['Shoulder Ice/Snow'],,2019-11-06 15:47:31
+CMA 20,Jct Hwy 21 to Jct Hwy 56,Bare Dry,Hwy 53,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:47:37
+CMA 20,Jct Hwy 56 to Battle River,Bare Dry,Hwy 53,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:47:42
+CMA 20,Jct Hwy 53 to Meeting Creek,Ptly Cvd Snw,Hwy 56,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:47:44
+CMA 20,Jct Hwy 12 to Jct Hwy 53,Ptly Cvd Snw,Hwy 56,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:48:03
+CMA 20,Jct Hwy 27 to Hwy 585,Bare Dry,Hwy 56,['Shoulder Ice/Snow'],Good,2019-11-06 15:48:06
+CMA 20,Jct Hwy 585 to Stettler,Ptly Cvd Snw,Hwy 56,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:48:41
+CMA 21,Jct Hwy 9 East to Jct Hwy 569,Bare Wet,Hwy 10,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:50:27
+CMA 21,Jct Hwy 10 South to Wayne,Bare Wet,Hwy 10X,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:50:29
+CMA 21,Jct Hwy 852 to Jct Hwy 36,Bare Wet,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 15:50:30
+CMA 21,Jct Hwy 36 to Jct Hwy 872,Bare Wet,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 15:50:32
+CMA 21,Jct Hwy 872 to Jct Hwy 884,Bare Wet,Hwy 12,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:50:34
+CMA 21,Wardlow Turnoff to Jct Hwy 9,Ptly Cvd Ice,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:50:36
+CMA 21,Jct Hwy 12 to Alliance,Bare Wet,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:50:39
+CMA 21,Lake Thelma Road to Jct Hwy 12,Bare Wet,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:50:42
+CMA 21,Township Rd. 281 to Jct Hwy 10 ,Bare Wet,Hwy 56,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:50:48
+CMA 21,Jct Hwy 9 to Lake Thelma Road,Ptly Cvd Ice,Hwy 36,['Shoulder Ice/Snow'],Good,2019-11-06 15:50:50
+CMA 21,Jct Hwy 836 to Drumheller,Bare Dry,Hwy 575,"['Shoulder Ice/Snow', 'Icy sections']",Fair,2019-11-06 15:50:52
+CMA 21,Jct Hwy 851 to Jct Hwy 36,Ptly Cvd Ice,Hwy 9,['Shoulder Ice/Snow'],Good,2019-11-06 15:51:00
+CMA 21,Morrin to Jct Hwy 851,Bare Wet,Hwy 9,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:51:33
+CMA 21,Jct Hwy 36 to Jct Hwy 884,Ptly Cvd Ice,Hwy 9,['Shoulder Ice/Snow'],Good,2019-11-06 15:51:39
+CMA 21,Beynon Corner to Jct Hwy 10,Bare Wet,Hwy 9,"['Shoulder Ice/Snow', 'Icy sections', 'Slush']",Good,2019-11-06 15:51:41
+CMA 21,Jct Hwy 10 to Jct Hwy 27,Bare Wet,Hwy 9,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:51:43
+CMA 22,Jct Hwy 884 to Jct Hwy 41,Bare Dry,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 15:51:52
+CMA 22,Hardisty to Jct Hwy 41,Bare Dry,Hwy 13,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:51:58
+CMA 22,Jct Hwy 41 to Saskatchewan Border,Bare Dry,Hwy 13,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:52:00
+CMA 22,Jct Hwy 12 to Jct Hwy 599,Bare Dry,Hwy 41,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:52:03
+CMA 22,South Saskatchewan River to Jct Hwy 570,Bare Dry,Hwy 41,['Icy sections'],Good,2019-11-06 15:52:04
+CMA 22,Jct Hwy 570 to New Brigden,Bare Dry,Hwy 41,['Icy sections'],Good,2019-11-06 15:52:07
+CMA 22,Jct Hwy 599 to Jct Hwy 13,Bare Dry,Hwy 41,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:52:11
+CMA 22,Jct Hwy 13 to 25 km South of Jct Hwy 14,Bare Dry,Hwy 41,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:52:14
+CMA 22,Jct Hwy 884 to Jct Hwy 41,Bare Dry,Hwy 9,['Icy sections'],Good,2019-11-06 15:52:16
+CMA 22,Jct Hwy 41 to Saskatchewan Border,Bare Dry,Hwy 9,['Icy sections'],Good,2019-11-06 15:52:19
+CMA 23,Alderson to West Boundary Medicine Hat,Bare Dry,Hwy 1,['Shoulder Ice/Snow'],Good,2019-11-06 15:52:33
+CMA 23,West Boundary Medicine Hat to East Boundary Medicine Hat,Bare Wet,Hwy 1,['Shoulder Ice/Snow'],Good,2019-11-06 15:52:35
+CMA 23,East Boundary Medicine Hat to Saskatchewan Border,Bare Dry,Hwy 1,['Shoulder Ice/Snow'],Good,2019-11-06 15:52:38
+CMA 23,Seven Persons Range Road Overpass to Medicine Hat,Bare Dry,Hwy 3,['Shoulder Ice/Snow'],Good,2019-11-06 15:52:42
+CMA 23,Jct Hwy 1 to Golden Prairie Road,Bare Dry,Hwy 41,['Shoulder Ice/Snow'],Good,2019-11-06 15:52:50
+CMA 23,Elkwater to Jct Hwy 1,Ptly Cvd Ice,Hwy 41,"['Icy sections', 'Slush']",Good,2019-11-06 15:52:52
+CMA 23,Golden Prairie Road to Hilda,Bare Dry,Hwy 41,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:52:56
+CMA 23,Hilda to South Saskatchewan River,Bare Dry,Hwy 41,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:52:59
+CMA 23,U.S. Border to Elkwater,Ptly Cvd Ice,Hwy 41,['Icy sections'],Good,2019-11-06 15:53:01
+CMA 23,Medicine Hat to Jct Hwy 41 North,Bare Dry,Hwy 41A,['Shoulder Ice/Snow'],Good,2019-11-06 15:53:04
+CMA 24,Grassy Lake to Bow Island,Bare Dry,Hwy 3,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:53:14
+CMA 24,Bow Island to Seven Persons Range Road Overpass,Bare Dry,Hwy 3,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:53:15
+CMA 24,Taber to Grassy Lake,Bare Dry,Hwy 3,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:53:17
+CMA 24,Coaldale to Taber,Bare Dry,Hwy 3,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:53:19
+CMA 24,Warner to Jct Hwy 61,Bare Wet,Hwy 36,"['Shoulder Ice/Snow', 'Drifting Snow']",Good,2019-11-06 15:53:22
+CMA 24,Jct Hwy 3 to Scandia,Bare Dry,Hwy 36,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:53:23
+CMA 24,Jct Hwy 61 to Jct Hwy 3,Bare Wet,Hwy 36,"['Icy sections', 'Shoulder Ice/Snow', 'Drifting Snow']",Good,2019-11-06 15:53:26
+CMA 24,West of Barnwell to East of Barnwell,Ptly Cvd Ice,Hwy 3A,['Shoulder Ice/Snow'],Good,2019-11-06 15:53:32
+CMA 24,Warner to Stirling,Bare Dry,Hwy 4,"['Shoulder Ice/Snow', 'Fog']",Good,2019-11-06 15:53:34
+CMA 24,Coutts Border to Warner,Ptly Cvd Ice,Hwy 4,"['Strong Wind', 'Drifting Snow', 'Shoulder Ice/Snow']",Good,2019-11-06 15:53:37
+CMA 25,U.S. Border to Cardston,Ptly Cvd Ice,Hwy 2,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:53:54
+CMA 25,Cardston to Stand Off,Ptly Cvd Ice,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:53:56
+CMA 25,Carmangay to Jct Hwy 24,Bare Wet,Hwy 23,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:53:59
+CMA 25,Jct Hwy 3 to Carmangay,Bare Dry,Hwy 23,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:54:01
+CMA 25,Jct Hwy 24 to Jct Hwy 804,Bare Wet,Hwy 23,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:05
+CMA 25,Jct Hwy 23 to Jct Hwy 547 West,Bare Wet,Hwy 24,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:54:08
+CMA 25,Jct Hwy 547 West to Bow River,Bare Wet,Hwy 24,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:11
+CMA 25,Lethbridge to Enchant,Ptly Cvd Ice,Hwy 25,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:54:13
+CMA 25,Monarch to Lethbridge,Bare Dry,Hwy 3,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:16
+CMA 25,Jct Hwy 25 to Jct 43 Street,Bare Wet,Hwy 3,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:54:18
+CMA 25,Lethbridge to Coaldale,Bare Dry,Hwy 3,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:21
+CMA 25,Jct Hwy 3 to Jct Hwy 23,Ptly Cvd Ice,Hwy 3A,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:54:24
+CMA 25,Stirling to Lethbridge Jct Hwy 3,Bare Dry,Hwy 4,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:26
+CMA 25,Spring Coulee to Magrath,Ptly Cvd Ice,Hwy 5,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:54:28
+CMA 25,Cardston to Spring Coulee,Ptly Cvd Ice,Hwy 5,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:30
+CMA 25,Waterton Park Northeast Boundary to Cardston,Ptly Cvd Ice,Hwy 5,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:54:33
+CMA 25,Magrath to Lethbridge,Ptly Cvd Ice,Hwy 5,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:36
+CMA 25,Welling to Jct Hwy 4,Ptly Cvd Ice,Hwy 52,"['Icy sections', 'Shoulder Ice/Snow']",,2019-11-06 15:54:38
+CMA 25,U.S. Border to Magrath,Ptly Cvd Ice,Hwy 62,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:40
+CMA 26,Granum to Claresholm,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:54:50
+CMA 26,Stand Off to Fort Macleod,Bare Wet,Hwy 2,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:54:51
+CMA 26,Jct Hwy 3 to Granum,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:54:53
+CMA 26,Claresholm to Nanton,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:54:55
+CMA 26,Nanton to Township Road 170,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:54:57
+CMA 26,Jct Hwy 520 to Jct Hwy 533,Ptly Cvd Ice,Hwy 22,"['Shoulder Ice/Snow', 'Drifting Snow']",Good,2019-11-06 15:55:06
+CMA 26,North of Jct Hwy 3 to Jct Hwy 520,Bare Wet,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 15:55:08
+CMA 26,Jct Hwy 533 to North of Chain Lakes Provincial Park,Ptly Cvd Ice,Hwy 22,"['Shoulder Ice/Snow', 'Drifting Snow']",Good,2019-11-06 15:55:11
+CMA 26,Burmis to Pincher Creek,Bare Wet,Hwy 3,['Shoulder Ice/Snow'],Good,2019-11-06 15:55:16
+CMA 26,Pincher Creek to Brocket,Bare Wet,Hwy 3,['Shoulder Ice/Snow'],Good,2019-11-06 15:55:19
+CMA 26,Brocket to Fort Macleod,Bare Wet,Hwy 3,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:55:23
+CMA 26,Fort Macleod to Monarch,Bare Wet,Hwy 3,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:55:26
+CMA 26,Waterton to Pincher Creek,Bare Wet,Hwy 6,['Shoulder Ice/Snow'],Good,2019-11-06 15:55:29
+CMA 31,69th Street SW to Macleod Trail,Bare Wet,Hwy 22X,['Shoulder Ice/Snow'],Good,2019-11-06 15:56:30
+CMA 31,Stone Pine Way to 37th Street SW,Bare Wet,Hwy 8,['Shoulder Ice/Snow'],Good,2019-11-06 15:56:31
+CMA 504,Jct Hwy 59 to Jct Hwy 43,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:56:36
+CMA 504,North of Dunvegan Bridge to Rycroft,Bare Dry,Hwy 2,[],Good,2019-11-06 15:56:38
+CMA 504,North of Webster Corner to Jct Hwy 59,Bare Dry,Hwy 2,[],Good,2019-11-06 15:56:42
+CMA 504,Saddle Hills County South Boundary to North of Webster,Bare Wet,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 15:56:44
+CMA 504,Pinto Creek to Muskeg River,Ptly Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 15:56:47
+CMA 504,Muskeg River to Grande Cache,Ptly Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 15:56:49
+CMA 504,Grande Cache to Winniandy,Ptly Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 15:56:53
+CMA 504,Winniandy to Westview,Ptly Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 15:56:55
+CMA 504,Westview to Ainsworth Turnoff,Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:01
+CMA 504,Ainsworth Turnoff to Grande Prairie City Limits,Bare Wet,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:05
+CMA 504,BC Border to Beaverlodge,Bare Dry,Hwy 43,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:08
+CMA 504,Jct Hwy 2 to Jct Hwy 733,Bare Dry,Hwy 43,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:11
+CMA 504,Jct Hwy 733 to DeBolt,Bare Dry,Hwy 43,[],Good,2019-11-06 15:57:14
+CMA 504,West of 116 Street to Jct Hwy 2,Bare Dry,Hwy 43,"['Shoulder Ice/Snow', 'Snowing', 'Icy sections']",Good,2019-11-06 15:57:17
+CMA 504,Beaverlodge to Jct Hwy 724,Bare Dry,Hwy 43,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:19
+CMA 504,Jct Hwy 724 to 276m east of Range Road 70,Bare Dry,Hwy 43,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:22
+CMA 504,Grande Prairie North City Limits to Hwy 2,Bare Wet,Hwy 43,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:57:25
+CMA 504,BC Border to Jct Hwy 725,Bare Dry,Hwy 49,[],Good,2019-11-06 15:57:27
+CMA 504,West of Range Road 63 to jct Hwy 43 South,Bare Dry,Hwy 43,[],Good,2019-11-06 15:57:30
+CMA 504,Jct Hwy 725 to Rycroft,Bare Dry,Hwy 49,[],Good,2019-11-06 15:57:33
+CMA 504,Rycroft to Eaglesham Corner,Bare Dry,Hwy 49,[],Good,2019-11-06 15:57:36
+CMA 504,Jct Hwy 43 to Laglace,Bare Dry,Hwy 59,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:38
+CMA 504,Laglace to Jct Hwy 2,Bare Dry,Hwy 59,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:41
+CMA 516,Red Deer City Limits to Jct Hwy 815,Ptly Cvd Ice,Hwy 11,['Shoulder Ice/Snow'],Good,2019-11-06 15:57:56
+CMA 516,Jct Hwy 815 to Haynes Access,Ptly Cvd Ice,Hwy 11,['Shoulder Ice/Snow'],Good,2019-11-06 15:58:02
+CMA 516,Hesporo to Jct Hwy 2,Ptly Cvd Ice,Hwy 11,['Shoulder Ice/Snow'],Good,2019-11-06 15:58:07
+CMA 516,Haynes Access to Jct Hwy 21,Ptly Cvd Ice,Hwy 11,['Shoulder Ice/Snow'],Good,2019-11-06 15:58:11
+CMA 516,Jct Hwy 20 to Jct Hwy 2A,Ptly Cvd Ice,Hwy 11A,['Shoulder Ice/Snow'],Good,2019-11-06 15:58:23
+CMA 516,Clive Access to Jct Hwy 50,Cvd Ice,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 15:58:27
+CMA 516,Jct Hwy 50 to Jct Hwy 21 South,Cvd Ice,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 15:58:35
+CMA 516,Withrow Road to Jct Hwy 20,Ptly Cvd Ice,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 15:58:45
+CMA 516,East Boundary of Lacombe to Clive Access,Cvd Ice,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 15:58:56
+CMA 516,Jct Hwy 20 to West Boundary of Lacombe,Ptly Cvd Ice,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 15:59:07
+CMA 508,Anderson Road to Edson,Ptly Cvd Snw,Hwy 16,[],Good,2019-11-06 15:59:14
+CMA 508,West of Jct Hwy 753 to Entwistle,Bare Dry,Hwy 16,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:59:16
+CMA 508,Edson to Jct Hwy 32,Bare Wet,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 15:59:18
+CMA 516,Penhold Interchange to Hwy 11A Overpass,Bare Dry,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:59:26
+CMA 516,Hwy 11A Overpass to Blackfalds Overpass,Bare Dry,Hwy 2,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 15:59:33
+CMA 516,Blackfalds Overpass to Jct Hwy 604,Bare Dry,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 15:59:47
+CMA 516,Jct Hwy 11A to Jct Hwy 12,Ptly Cvd Ice,Hwy 20,['Shoulder Ice/Snow'],Good,2019-11-06 15:59:59
+CMA 516,Jct Hwy 11 to Jct Hwy 11A,Ptly Cvd Ice,Hwy 20,['Shoulder Ice/Snow'],Good,2019-11-06 16:00:09
+CMA 516,Jct Hwy 42 to the Red Deer River,Cvd Ice,Hwy 21,['Shoulder Ice/Snow'],Good,2019-11-06 16:00:30
+CMA 516,Red Deer River to Jct Hwy 12,Cvd Ice,Hwy 21,['Shoulder Ice/Snow'],Good,2019-11-06 16:00:32
+CMA 516,Jct Hwy 12 to south of Bashaw,Cvd Ice,Hwy 21,['Shoulder Ice/Snow'],Good,2019-11-06 16:00:38
+CMA 516,Jct Hwy 2 to Jct Hwy 604,Ptly Cvd Ice,Hwy 2A,['Shoulder Ice/Snow'],Good,2019-11-06 16:00:47
+CMA 516,North Boundary of Lacombe to Jct Hwy 2,Ptly Cvd Ice,Hwy 2A,['Shoulder Ice/Snow'],Good,2019-11-06 16:00:52
+CMA 516,Jct Hwy 11A to South Boundary of Lacombe,Ptly Cvd Ice,Hwy 2A,['Shoulder Ice/Snow'],Good,2019-11-06 16:00:56
+CMA 516,Jct Hwy 12 to Jct Hwy 21,Cvd Ice,Hwy 50,['Shoulder Ice/Snow'],Good,2019-11-06 16:01:04
+CMA 508,Jct Hwy 22 North to Entwistle,Ptly Cvd Snw,Hwy 16A,['Icy sections'],Good,2019-11-06 16:02:22
+CMA 508,Seba Beach to Jct Hwy 16,Bare Dry,Hwy 31,['Shoulder Ice/Snow'],Good,2019-11-06 16:02:26
+CMA 508,Township Road 570 to Jct Hwy 43,Ptly Cvd Ice,Hwy 32,[],Good,2019-11-06 16:02:29
+CMA 508,Entwistle to Lac St Anne,Ptly Cvd Snw,Hwy 22,['Icy sections'],Good,2019-11-06 16:02:31
+CMA 508,Jct Hwy 16 to Township Road 570,Bare Wet,Hwy 32,['Shoulder Ice/Snow'],Good,2019-11-06 16:02:36
+CMA 508,Fort Assiniboine to north of Hwy 658,Ptly Cvd Snw,Hwy 33,[],Good,2019-11-06 16:02:40
+CMA 508,Cadomin Access to Teck Coal Mine Access Road,Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 16:02:42
+CMA 508,Coalspur to Cadomin Access,Cvd Snw,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 16:02:44
+CMA 508,Lovett River Provincial Recreation Area to Coalspur,Cvd Ice,Hwy 40,"['Blowing snow', 'Shoulder Ice/Snow']",Good,2019-11-06 16:02:56
+CMA 508,Jct Hwy 734 to Lovett River Provincial Recreation Area,Cvd Ice,Hwy 40,"['Shoulder Ice/Snow', 'Blowing snow']",Good,2019-11-06 16:02:59
+CMA 508,Eagle Tower Road to Whitecourt,Bare Dry,Hwy 43,[],Good,2019-11-06 16:03:03
+CMA 508,Coalspur to Jct Hwy 16,Ptly Cvd Snw,Hwy 47,"['Icy sections', 'Shoulder Ice/Snow', 'Drifting Snow']",Good,2019-11-06 16:03:05
+CMA 508,Whitecourt to East of Hwy 658,Bare Dry,Hwy 43,[],Good,2019-11-06 16:03:16
+CMA 508,Edson to Jct Hwy 32,Ptly Cvd Snw,Hwy 748,"['Icy sections', 'Drifting Snow']",Good,2019-11-06 16:03:20
+CMA 508,Jct Hwy 16 to Lodgepole,Ptly Cvd Ice,Hwy 753,['Icy sections'],Good,2019-11-06 16:03:23
+CMA 520,Banff Park Gates to Lac des Arcs,Bare Wet,Hwy 1,"['Blowing snow', 'Strong Wind']",Good,2019-11-06 16:03:58
+CMA 520,Lac des Arcs to Jct Hwy 40,Bare Wet,Hwy 1,"['Strong Wind', 'Blowing snow']",Good,2019-11-06 16:04:14
+CMA 520,Jct Hwy 40 to Jct Hwy 22,Bare Dry,Hwy 1,"['Blowing snow', 'Strong Wind']",Good,2019-11-06 16:04:30
+CMA 520,Jct Hwy 22 Overpass to Calgary City Limits,Bare Dry,Hwy 1,"['Strong Wind', 'Blowing snow']",Good,2019-11-06 16:04:47
+CMA 515,Jct Hwy 20 to Westerose,Cvd Ice,Hwy 13,['Icy sections'],Good,2019-11-06 16:04:53
+CMA 515,Alder Flats to Jct Hwy 20,Cvd Ice,Hwy 13,['Icy sections'],Good,2019-11-06 16:04:56
+CMA 515,Westerose to Jct Hwy 2,Ptly Cvd Ice,Hwy 13,['Icy sections'],Good,2019-11-06 16:04:58
+CMA 515,Jct Hwy 2 to Wetaskiwin,Cvd Ice,Hwy 13,['Icy sections'],Good,2019-11-06 16:05:00
+CMA 515,West Access thru Ma-Me-O to East Access thru Ma-Me-O,Cvd Ice,Hwy 13A,"['Icy sections', 'Blowing snow', 'Drifting Snow']",Good,2019-11-06 16:05:08
+CMA 515,Jct Hwy 2A to 16 km West of Camrose,Ptly Cvd Ice,Hwy 13,['Icy sections'],Good,2019-11-06 16:05:11
+CMA 515,Jct Hwy 604 to Ponoka Overpass,Bare Dry,Hwy 2,['Icy sections'],Good,2019-11-06 16:05:15
+CMA 515,Ponoka Overpass to Jct Hwy 611,Bare Dry,Hwy 2,['Icy sections'],Good,2019-11-06 16:05:18
+CMA 515,Jct Hwy 611 to Jct Hwy 13,Bare Dry,Hwy 2,['Icy sections'],Good,2019-11-06 16:05:21
+CMA 520,Canmore to Jct Hwy 1X,Ptly Cvd Snw,Hwy 1A,"['Icy sections', 'Blowing snow', 'Strong Wind', 'Shoulder Ice/Snow']",Good,2019-11-06 16:05:24
+CMA 515,Jct Hwy 13 to Jct Hwy 616,Bare Dry,Hwy 2,['Icy sections'],Good,2019-11-06 16:05:25
+CMA 515,Jct Hwy 53 to Jct Hwy 20,Ptly Cvd Snw,Hwy 20A,['Icy sections'],Good,2019-11-06 16:05:33
+CMA 515,Jct Hwy 13 to South of Jct Hwy 616,Cvd Ice,Hwy 22,"['Icy sections', 'Strong Wind', 'Drifting Snow']",Good,2019-11-06 16:05:36
+CMA 515,Medicine Lake Road to Jct Hwy 13,Ptly Cvd Snw,Hwy 22,['Icy sections'],Good,2019-11-06 16:05:38
+CMA 515,Wetaskiwin to Millet,Ptly Cvd Snw,Hwy 2A,['Icy sections'],Good,2019-11-06 16:05:41
+CMA 515,Jct Hwy 611 West to Wetaskiwin,Ptly Cvd Snw,Hwy 2A,['Icy sections'],Good,2019-11-06 16:05:44
+CMA 515,Jct Hwy 604 to Jct Hwy 53,Ptly Cvd Ice,Hwy 2A,['Icy sections'],Good,2019-11-06 16:05:48
+CMA 515,Jct Hwy 53 to Jct Hwy 611 West,Ptly Cvd Snw,Hwy 2A,['Icy sections'],Good,2019-11-06 16:05:58
+CMA 520,Jct Hwy 1X to Jct Hwy 40,Ptly Cvd Snw,Hwy 1A,"['Icy sections', 'Blowing snow', 'Strong Wind', 'Shoulder Ice/Snow']",Good,2019-11-06 16:06:00
+CMA 515,Jct Hwy 20 to Crestomere,Ptly Cvd Snw,Hwy 53,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 16:06:01
+CMA 515,Crestomere to Jct Hwy 2,Ptly Cvd Ice,Hwy 53,['Icy sections'],Good,2019-11-06 16:06:05
+CMA 515,West of Jct Hwy 21 to Jct Hwy 2,Ptly Cvd Snw,Hwy 53,['Icy sections'],Good,2019-11-06 16:06:08
+CMA 520,Jct Hwy 1A to Jct Hwy 1,Ptly Cvd Snw,Hwy 1X,"['Blowing snow', 'Shoulder Ice/Snow', 'Strong Wind']",Good,2019-11-06 16:06:10
+CMA 516,Township Road 340 to Innisfail Interchange,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 16:06:20
+CMA 516,Innisfail Interchange to Penhold Interchange,Bare Dry,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 16:06:23
+CMA 520,Jct Hwy 40 to Jct Hwy 1,Bare Wet,Hwy 68,"['Shoulder Ice/Snow', 'Strong Wind', 'Blowing snow']",Good,2019-11-06 16:06:31
+CMA 516,Jct Hwy 590 to Jct Hwy 42,Ptly Cvd Ice,Hwy 2A,['Blowing snow'],Fair,2019-11-06 16:06:33
+CMA 516,Jct Hwy 2A to Jct Hwy 21,Ptly Cvd Ice,Hwy 42,['Blowing snow'],Fair,2019-11-06 16:06:35
+CMA 516,5 kms South of Jct Hwy 587 to Jct Hwy 587,Ptly Cvd Ice,Hwy 2A,['Blowing snow'],Fair,2019-11-06 16:06:39
+CMA 516,Spruce View to Jct Hwy 781,Ptly Cvd Ice,Hwy 54,['Blowing snow'],Fair,2019-11-06 16:06:50
+CMA 516,Jct Hwy 781 to East of Jct Hwy 2,Ptly Cvd Ice,Hwy 54,['Blowing snow'],Fair,2019-11-06 16:06:53
+CMA 520,Jct Hwy 72 to North of Twp Rd 292,Ptly Cvd Snw,Hwy 2A,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 16:07:11
+CMA 521,Jct Hwy 21 to Jct Hwy 56,Bare Wet,Hwy 1,['Shoulder Ice/Snow'],Fair,2019-11-06 16:07:26
+CMA 521,Nanton to Aldersyde,Ptly Cvd Ice,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 16:07:29
+CMA 521,Aldersyde to Jct Hwy 2A,Ptly Cvd Ice,Hwy 2,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 16:07:31
+CMA 521,Jct Hwy 564 to Jct Hwy 9,Cvd Ice,Hwy 21,"['Slush', 'Shoulder Ice/Snow']",Good,2019-11-06 16:07:33
+CMA 521,Jct Hwy 1 to Jct Hwy 564,Cvd Ice,Hwy 21,"['Shoulder Ice/Snow', 'Slush']",Good,2019-11-06 16:07:36
+CMA 521,Jct Hwy 804 to East Boundary of High River,Bare Dry,Hwy 23,['Shoulder Ice/Snow'],Good,2019-11-06 16:07:43
+CMA 521,Jct Hwy 2 Deerfoot Trail to Jct Hwy 552,Ptly Cvd Ice,Hwy 2A,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 16:07:47
+CMA 521,Okotoks to Jct Hwy 2,Ptly Cvd Ice,Hwy 2A,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 16:07:50
+CMA 521,North Boundary of High River to Jct Hwy 7,Ptly Cvd Ice,Hwy 2A,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 16:07:54
+CMA 521,Jct Hwy 1 to Jct Hwy 564,Bare Wet,Hwy 56,[],Good,2019-11-06 16:07:58
+CMA 521,Okotoks to Jct Hwy 2,Ptly Cvd Ice,Hwy 7,['Shoulder Ice/Snow'],Good,2019-11-06 16:09:08
+CMA 514,Jct Hwy 756 to Hesporo,Bare Wet,Hwy 11,[],Good,2019-11-06 16:09:16
+CMA 514,Jct Hwy 54 to Jct Hwy 11,Bare Wet,Hwy 22,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 16:09:42
+STONEY TRAIL SOUTH EAST,Jct Hwy 2A South to Jct Hwy 201 SE,Ptly Cvd Snw,Hwy 2,['Shoulder Ice/Snow'],Good,2019-11-06 16:09:48
+STONEY TRAIL SOUTH EAST,17th Avenue SE to Glenmore Trail SE,Ptly Cvd Snw,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:09:51
+CMA 514,Jct Hwy 587 to Jct Hwy 54,Bare Wet,Hwy 22,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 16:10:01
+CMA 514,Jct Hwy 22 to Spruce View,Bare Wet,Hwy 54,['Shoulder Ice/Snow'],Good,2019-11-06 16:10:36
+STONEY TRAIL SOUTH EAST,Glenmore Trail SE to Jct Hwy 22X,Ptly Cvd Snw,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:11:09
+STONEY TRAIL SOUTH EAST,Jct Hwy 22X to Jct Hwy 2 Deerfoot Trail SE,Ptly Cvd Snw,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:11:12
+CMA 21,Jct Hwy 21 to Carbon Hill Cemetery,Bare Wet,Hwy 575,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 16:12:20
+CMA 21,Carbon Hill Cemetery to Jct Hwy 836,Bare Wet,Hwy 575,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 16:12:34
+STONEY TRAIL SOUTH EAST,Jct Hwy 2 Deerfoot Trail SE to Macleod Trail,Ptly Cvd Snw,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:12:52
+CMA 508,Jasper Park East Gates to Hinton,Ptly Cvd Ice,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 16:20:04
+CMA 11,South of Jct Hwy 616 to Jct Hwy 39,Bare Wet,Hwy 22,['Icy sections'],Good,2019-11-06 16:20:17
+CMA 508,Hinton to Anderson Road,Bare Wet,Hwy 16,['Shoulder Ice/Snow'],Good,2019-11-06 16:20:18
+CMA 11,Jct Hwy 39 to Jct Hwy 624,Bare Wet,Hwy 22,['Icy sections'],Good,2019-11-06 16:20:26
+CMA 508,Teck Coal Mine Access Road to Jct Hwy 16,Cvd Ice,Hwy 40,['Shoulder Ice/Snow'],Good,2019-11-06 16:20:28
+CMA 508,Jct Hwy 16 to Pinto Creek,Cvd Ice,Hwy 40,"['Shoulder Ice/Snow', 'Blowing snow']",Good,2019-11-06 16:20:30
+CMA 11,Jct Hwy 624 to Entwistle,Bare Wet,Hwy 22,['Icy sections'],Good,2019-11-06 16:20:38
+CMA 11,South of Breton to Jct Hwy 39,Bare Wet,Hwy 20,['Icy sections'],Good,2019-11-06 16:20:54
+CMA 11,Jct Hwy 22 to Warburg,Bare Wet,Hwy 39,['Icy sections'],Good,2019-11-06 16:20:57
+CMA 11,Warburg to Thorsby,Bare Wet,Hwy 39,['Icy sections'],Good,2019-11-06 16:21:05
+DEERFOOT TRAIL / STONEY TRAIL,Jct Hwy 1 West to Crowchild Trail Jct Hwy 1A West,Bare Dry,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:32:53
+DEERFOOT TRAIL / STONEY TRAIL,Crowchild Trail Jct Hwy 1A West to Sarcee Trail,Bare Dry,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:32:59
+DEERFOOT TRAIL / STONEY TRAIL,Sarcee Trail to Beddington Trail,Bare Dry,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:33:08
+DEERFOOT TRAIL / STONEY TRAIL,Beddington Trail to Jct Hwy 2 Deerfoot Trail NE,Bare Dry,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:33:11
+DEERFOOT TRAIL / STONEY TRAIL,Jct Hwy 2 Deerfoot Trail NE to Country Hills Blvd NE,Bare Dry,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:33:14
+DEERFOOT TRAIL / STONEY TRAIL,Country Hills Blvd NE to Jct Hwy 1 East,Bare Dry,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:33:16
+DEERFOOT TRAIL / STONEY TRAIL,Jct Hwy 1 East to 17th Avenue SE,Bare Wet,Hwy 201,['Shoulder Ice/Snow'],Good,2019-11-06 16:33:23
+CMA 22,Jct Hwy 41 to Saskatchewan Border,Bare Wet,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 16:41:19
+CMA 22,New Brigden to Jct Hwy 12,Bare Wet,Hwy 41,['Shoulder Ice/Snow'],Good,2019-11-06 16:41:58
+CMA 514,Banff Park Border to Nordegg,Ptly Cvd Snw,Hwy 11,['Shoulder Ice/Snow'],Good,2019-11-06 16:47:59
+CMA 514,Nordegg to Misty Valley,Ptly Cvd Snw,Hwy 11,['Shoulder Ice/Snow'],Good,2019-11-06 16:48:25
+CMA 514,Misty Valley to Jct Hwy 756,Ptly Cvd Snw,Hwy 11,['Shoulder Ice/Snow'],Good,2019-11-06 16:48:49
+ANTHONY HENDAY DRIVE NW,Jct Hwy 16 West to St Albert Trail,Bare Dry,Hwy 216,[],Good,2019-11-06 17:01:04
+ANTHONY HENDAY DRIVE NW,St Albert Trail to 97 Street North West,Bare Dry,Hwy 216,[],Good,2019-11-06 17:01:06
+ANTHONY HENDAY DRIVE NW,97 Street North West to Jct Hwy 15 - Manning Drive North West,Bare Dry,Hwy 216,[],Good,2019-11-06 17:01:09
+CMA 10,Jct Hwy 776 to Jct Hwy 2,Bare Dry,Hwy 18,[],Good,2019-11-06 17:11:46
+CMA 10,Jct Hwy 651 to Westlock,Bare Dry,Hwy 44,[],Good,2019-11-06 17:11:53
+CMA 10,Barrhead to Fort Assiniboine,Bare Dry,Hwy 33,[],Good,2019-11-06 17:11:56
+CMA 10,Westlock to Dapp,Bare Dry,Hwy 44,[],Good,2019-11-06 17:12:00
+CMA 23,Jct Hwy 36 to Alderson,Bare Dry,Hwy 1,['Shoulder Ice/Snow'],Good,2019-11-06 17:18:58
+CMA 23,Jct Hwy 56 to Jct Hwy 36,Ptly Cvd Ice,Hwy 1,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 17:19:15
+CMA 23,Scandia to Jct Hwy 1,Bare Dry,Hwy 36,[],Good,2019-11-06 17:19:26
+CMA 23,Jct Hwy 1 to Wardlow Turnoff,Ptly Cvd Ice,Hwy 36,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 17:19:39
+ANTHONY HENDAY DRIVE NE,Beverly Bridge to Clover Bar Road,Bare Dry,Hwy 16,[],Good,2019-11-06 17:30:06
+ANTHONY HENDAY DRIVE NE,Jct Hwy 15 - Manning Drive North West to Jct Hwy 16 East,Bare Dry,Hwy 216,[],Good,2019-11-06 17:30:06
+ANTHONY HENDAY DRIVE NE,Jct Hwy 14 to Jct Hwy 16 East,Bare Dry,Hwy 216,[],Good,2019-11-06 17:30:06
+ANTHONY HENDAY DRIVE NE,Edmonton to Sherwood Park,Bare Dry,Sherwood Park Freeway,[],Good,2019-11-06 17:30:06
+WATERTON PARKS,Waterton Village to Jct Hwy 6,Ptly Cvd Snw,Hwy 5,['Icy sections'],Good,2019-11-06 17:35:57
+WATERTON PARKS,Two Flags Viewpoint to Jct Hwy 5,Ptly Cvd Snw,Hwy 6,['Icy sections'],Good,2019-11-06 17:36:11
+WATERTON PARKS,Waterton Park to Waterton Park Northeast Boundary,Ptly Cvd Snw,Hwy 5,['Icy sections'],Good,2019-11-06 17:36:25
+WATERTON PARKS,Jct Hwy 5 to Waterton Lakes National Park North Boundary,Ptly Cvd Snw,Hwy 6,['Icy sections'],Good,2019-11-06 17:36:32
+CMA 24,Jct Hwy 36 to Foremost (Hwy 879),Bare Dry,Hwy 61,"['Icy sections', 'Shoulder Ice/Snow', 'Drifting Snow']",Good,2019-11-06 17:49:00
+CMA 24,Foremost (Hwy 879) to Manyberries,Bare Dry,Hwy 61,"['Drifting Snow', 'Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 17:49:19
+CMA 514,Jct Hwy 756 to Jct Hwy 598,Ptly Cvd Snw,Hwy 11A,['Shoulder Ice/Snow'],Good,2019-11-06 18:38:32
+CMA 514,Jct Hwy 22 to Withrow Road,Ptly Cvd Ice,Hwy 12,['Shoulder Ice/Snow'],Good,2019-11-06 18:38:44
+CMA 514,Jct Hwy 53 to Medicine Lake Road,Ptly Cvd Snw,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 18:38:58
+CMA 514,Jct Hwy 11 to Jct Hwy 53,Ptly Cvd Snw,Hwy 22,['Shoulder Ice/Snow'],Good,2019-11-06 18:39:18
+CMA 514,Jct Hwy 22 to Jct Hwy 20,Ptly Cvd Ice,Hwy 53,['Shoulder Ice/Snow'],Good,2019-11-06 18:39:37
+CMA 514,Jct Hwy 582 to Jct Hwy 27,Bare Wet,Hwy 22,['Icy sections'],Good,2019-11-06 18:41:33
+CMA 514,Sundre to Jct Hwy 587,Bare Wet,Hwy 22,['Icy sections'],Good,2019-11-06 18:41:42
+CMA 514,Cremona to Jct Hwy 582,Bare Wet,Hwy 22,['Icy sections'],Good,2019-11-06 18:41:52
+CMA 514,Sundre to Jct Hwy 766,Bare Wet,Hwy 27,['Icy sections'],Good,2019-11-06 18:42:18
+CMA 514,Jct Hwy 2 to Jct Hwy 805,Ptly Cvd Snw,Hwy 27,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 18:55:51
+CMA 514,Jct Hwy 766 to Jct Hwy 2,Ptly Cvd Snw,Hwy 27,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 18:55:55
+CMA 514,Jct Hwy 582 to South of Bowden,Ptly Cvd Snw,Hwy 2A,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 18:56:00
+CMA 514,North of Twp Rd 292 to Jct Hwy 582,Ptly Cvd Snw,Hwy 2A,"['Shoulder Ice/Snow', 'Icy sections']",Good,2019-11-06 18:56:04
+CMA 514,North of Jct Hwy 2A to south of Bowden,Bare Wet,Hwy 2,"['Icy sections', 'Shoulder Ice/Snow']",Good,2019-11-06 18:56:14
+CMA 26,Coleman to Burmis,Bare Dry,Hwy 3,[],Good,2019-11-06 19:58:41
+CMA 26,BC Border to Coleman,Bare Dry,Hwy 3,[],Good,2019-11-06 19:58:56
